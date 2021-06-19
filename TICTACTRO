@@ -221,4 +221,4 @@ int menu(){
         default: //jika user memilih pilihan yang lain
             printf("Error. Silahkan jalankan program lagi.");
     }
-}
+} 
